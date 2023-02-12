@@ -5,7 +5,7 @@ NodeJS is javascript runtime environment;
 
 
 ## JavaScript on the Server
-- We use NodeJS to write Server Side Code
+- We can use NodeJS to write Server Side Code
 - Run Server, Create server and listen to incoming requests and send response to that requests.
 - We use NodeJS for Business Logic like Handling Requests, Validate inputs, Connect to Database.
 
