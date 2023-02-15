@@ -1,4 +1,4 @@
-# Nodejs
+# Nodejs Course
 
 ## What is NodeJS
 NodeJS is javascript runtime environment;
